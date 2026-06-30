@@ -1,0 +1,13 @@
+{
+  "name": "記帳天地",
+  "short_name": "記帳天地",
+  "description": "暖色手帳風個人記帳 App",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8ec",
+  "theme_color": "#8d5a3b",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "./icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
